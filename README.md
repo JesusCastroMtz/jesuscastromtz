@@ -1,4 +1,5 @@
-
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
+<br><br>
 
 # **⚡ [Tu Nombre]: De circuitos a algoritmos**  
 ### *"Mi viaje de los voltios a los datos: construyendo puentes entre lo físico y lo digital."*  

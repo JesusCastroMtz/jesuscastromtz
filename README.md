@@ -1,23 +1,35 @@
-# **⚡ [Tu Nombre]: De circuitos a algoritmos**  
+# **⚡ Jesús Castro Martínez: De circuitos a algoritmos**  
 ### *"Mi viaje de los voltios a los datos: construyendo puentes entre lo físico y lo digital."*  
 
 ---
 
-## **🔌 Capítulo 1: Los años del hardware**  
-*"Durante años, mi mundo fueron los microcontroladores y las señales analógicas. Diseñaba circuitos, resolvía problemas de firmware y optimizaba sistemas embebidos. Pero algo me decía que había un universo más allá de los componentes físicos..."*  
+## 🎯 **Mi Historia en 3 Actos**  
+
+### 🔌 **Acto 1: El Ingeniero**  
+*"Durante años, mi mundo fue el de los microcontroladores, las señales analógicas y las PCB. Diseñé sistemas embebidos, optimicé firmware y resolví problemas complejos con lógica y precisión. Pero un día, mientras automatizaba pruebas de hardware con Python, descubrí que los datos eran como las señales eléctricas: invisibles, pero llenas de patrones esperando ser decodificados."*  
+
+**Habilidades clave**:  
+- Pensamiento sistémico (¡un circuito es como un pipeline de datos!).  
+- Python para automatización (¡mis primeros `scripts` fueron para leer sensores!).  
+- Matemáticas aplicadas (álgebra lineal, transformadas de Fourier).  
 
 - **Habilidades clave**: Pensamiento lógico, resolución de problemas, Python para automatización, matemáticas aplicadas.  
-- **Momento clave**: *"Cuando usé Python para analizar datos de sensores en un proyecto IoT, descubrí que los datos eran como señales eléctricas: invisibles, pero capaces de revelar patrones poderosos."*  
 
-*(Incluye una imagen de un circuito o un microcontrolador si tienes, o un GIF de transición como este:)*  
-
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="250" alt="Electronics to Data">
-
+*(Si tienes fotos de proyectos de electrónica, añade un enlace o GIF aquí)*  
 
 ---
 
-## **📊 Capítulo 2: El giro hacia los datos**  
-*"Decidí que mi siguiente 'prototipo' sería yo mismo. Me sumergí en cursos de estadística, machine learning y bases de datos, aplicando la misma disciplina que usaba para depurar PCB."*  
+### 📈 **Acto 2: La Transformación**  
+*"Decidí que mi próximo prototipo sería **yo mismo**. Me sumergí en estadística, algoritmos de ML y visualización de datos, aplicando la misma metodología rigurosa que usaba para depurar circuitos."*  
+
+**Stack técnico actual**:  
+| **Área**       | **Herramientas**                                                                 |  
+|----------------|---------------------------------------------------------------------------------|  
+| Programación   | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql) |  
+| Machine Learning | ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat&logo=scikit-learn) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow) |  
+| Visualización  | ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly) |  
+| Cloud          | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) |  
+
 
 ### **🛠️ Nuevas herramientas, misma mentalidad de ingeniero**  
 - **Lenguajes**: `Python` (Pandas, NumPy), `SQL` (como si fueran tablas de registros de sensores).  
@@ -27,6 +39,17 @@
   - *"Automatización de informes con Python (igual que hacía scripts para probar placas)."*  
 
 ---
+
+### 🚀 **Acto 3: Proyectos que Unen Dos Mundos**  
+#### 🔋 **1. Mantenimiento Predictivo para Equipos Industriales**  
+*"Usé datos de vibración y temperatura (como los que recolectaba en mis días de electrónica) para predecir fallas con un modelo de Random Forest. ¡El EDA fue como analizar señales en un osciloscopio!"*  
+[![Código](https://img.shields.io/badge/🔧_Repositorio-181717?style=flat&logo=github)](link)  
+
+#### 📡 **2. Análisis de Datos de Sensores IoT**  
+*"Procesé streams de datos en tiempo real con Pandas, igual que hacía con C++ en microcontroladores, pero ahora a gran escala."*  
+[![Demo](https://img.shields.io/badge/🚀_Demo-FF6F00?style=flat)](link)  
+
+*(Añade capturas de pantalla de dashboards o gráficos interactivos si tienes)*  
 
 ## **🚀 Capítulo 3: Proyectos que conectan ambos mundos**  
 ### **🔋 Proyecto 1: Mantenimiento predictivo para equipos electrónicos**  
@@ -56,6 +79,14 @@
 - ✍️ **Blog**: [Escribo sobre la intersección entre hardware y data science](link).  
 
 ---
+
+## 🌉 **¿Por Qué Contratarme?**  
+*"No soy solo un científico de datos: soy un **ingeniero que entiende el origen físico de los datos**. Si tu problema involucra sensores, dispositivos IoT o manufactura, puedo ser el puente entre el hardware y el análisis."*  
+
+**Lo que ofrezco**:  
+- 🛠️ **Mentalidad de "solucionador de problemas"** (depuraba circuitos, ahora depuro datasets).  
+- 📡 **Experiencia con datos de sensores y series temporales**.  
+- 🔄 **Habilidad para traducir requerimientos técnicos entre equipos**.  
 
 ## **🤝 Conéctemos**  
 *"Si buscas a alguien que hable el lenguaje de los ingenieros y los científicos de datos, hagamos equipo:"*  
@@ -142,58 +173,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ⚡ [Tu Nombre] 
-### *"De las placas de circuito a los datasets: Construyendo puentes entre el hardware y el machine learning"* 
+---
+
+
 
 ---
 
-## 🎯 **Mi Historia en 3 Actos**  
 
-### 🔌 **Acto 1: El Ingeniero**  
-*"Durante [X] años, mi mundo fue el de los microcontroladores, las señales analógicas y las PCB. Diseñé sistemas embebidos, optimicé firmware y resolví problemas complejos con lógica y precisión. Pero un día, mientras automatizaba pruebas de hardware con Python, descubrí que los datos eran como las señales eléctricas: invisibles, pero llenas de patrones esperando ser decodificados."*  
-
-**Habilidades clave**:  
-- Pensamiento sistémico (¡un circuito es como un pipeline de datos!).  
-- Python para automatización (¡mis primeros `scripts` fueron para leer sensores!).  
-- Matemáticas aplicadas (álgebra lineal, transformadas de Fourier).  
-
-*(Si tienes fotos de proyectos de electrónica, añade un enlace o GIF aquí)*  
 
 ---
 
-### 📈 **Acto 2: La Transformación**  
-*"Decidí que mi próximo prototipo sería **yo mismo**. Me sumergí en estadística, algoritmos de ML y visualización de datos, aplicando la misma metodología rigurosa que usaba para depurar circuitos."*  
 
-**Stack técnico actual**:  
-| **Área**       | **Herramientas**                                                                 |  
-|----------------|---------------------------------------------------------------------------------|  
-| Programación   | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql) |  
-| Machine Learning | ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat&logo=scikit-learn) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow) |  
-| Visualización  | ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly) |  
-| Cloud          | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) |  
 
 ---
 
-### 🚀 **Acto 3: Proyectos que Unen Dos Mundos**  
-#### 🔋 **1. Mantenimiento Predictivo para Equipos Industriales**  
-*"Usé datos de vibración y temperatura (como los que recolectaba en mis días de electrónica) para predecir fallas con un modelo de Random Forest. ¡El EDA fue como analizar señales en un osciloscopio!"*  
-[![Código](https://img.shields.io/badge/🔧_Repositorio-181717?style=flat&logo=github)](link)  
 
-#### 📡 **2. Análisis de Datos de Sensores IoT**  
-*"Procesé streams de datos en tiempo real con Pandas, igual que hacía con C++ en microcontroladores, pero ahora a gran escala."*  
-[![Demo](https://img.shields.io/badge/🚀_Demo-FF6F00?style=flat)](link)  
-
-*(Añade capturas de pantalla de dashboards o gráficos interactivos si tienes)*  
-
----
-
-## 🌉 **¿Por Qué Contratarme?**  
-*"No soy solo un científico de datos: soy un **ingeniero que entiende el origen físico de los datos**. Si tu problema involucra sensores, dispositivos IoT o manufactura, puedo ser el puente entre el hardware y el análisis."*  
-
-**Lo que ofrezco**:  
-- 🛠️ **Mentalidad de "solucionador de problemas"** (depuraba circuitos, ahora depuro datasets).  
-- 📡 **Experiencia con datos de sensores y series temporales**.  
-- 🔄 **Habilidad para traducir requerimientos técnicos entre equipos**.  
 
 ---
 

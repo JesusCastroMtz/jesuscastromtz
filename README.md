@@ -1,11 +1,6 @@
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
-<br><br>
-
 # **⚡ [Tu Nombre]: De circuitos a algoritmos**  
 ### *"Mi viaje de los voltios a los datos: construyendo puentes entre lo físico y lo digital."*  
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-<br><br>
 ---
 
 ## **🔌 Capítulo 1: Los años del hardware**  
@@ -15,9 +10,9 @@
 - **Momento clave**: *"Cuando usé Python para analizar datos de sensores en un proyecto IoT, descubrí que los datos eran como señales eléctricas: invisibles, pero capaces de revelar patrones poderosos."*  
 
 *(Incluye una imagen de un circuito o un microcontrolador si tienes, o un GIF de transición como este:)*  
-```html
+
 <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="250" alt="Electronics to Data">
-```
+
 
 ---
 

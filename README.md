@@ -48,7 +48,6 @@
 
 *(Añade capturas de pantalla de dashboards o gráficos interactivos si tienes)*  
 
-
 ---
 
 ## **🌉 Por qué mi background es una ventaja**  
@@ -91,15 +90,11 @@
 
 ### **🎨 Toques finales**  
 - **Cita**:  
-  > *"En electrónica, optimizas circuitos; en data science, optimizas modelos. Al final, ambos son sistemas que resuelven problemas."*  
+  > *"En electrónica, optimizas circuitos; en data science, optimizas modelos. Al final, ambos son sistemas que resuelven problemas."* 
+  
 - **Estadísticas de GitHub** (opcional):  
-  ```markdown
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
-  ```
 
-## 📊 **Mis Estadísticas**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical&hide_border=true)  
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical&hide_border=true)  
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
 
 > *"En electrónica, la precisión lo es todo. En ciencia de datos, también."*  
 

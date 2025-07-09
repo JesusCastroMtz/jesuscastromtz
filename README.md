@@ -1,4 +1,4 @@
-# **⚡ Jesús Castro Martínez **  
+# ⚡ Jesús Castro Martínez 
 ### *"Mi viaje de los voltios a los datos: construyendo puentes entre lo físico y lo digital."*  
 
 ---
@@ -28,6 +28,8 @@
 | Machine Learning | ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat&logo=scikit-learn) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow) |  
 | Visualización  | ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly) |  
 | Cloud          | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) |  
+
+[![My Skills](https://skillicons.dev/icons?i=anaconda,sklearn,py,sqlite,postgres,raspberrypi)](https://skillicons.dev)
 
 ---
 
